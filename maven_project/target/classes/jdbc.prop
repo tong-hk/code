@@ -1,0 +1,4 @@
+jdbc.driver=com.mysql.jdbc.Driver
+jdbc.url=jdbc:mysql://139.224.116.139:3306/telcust
+jdbc.username=root
+jdbc.password=123
